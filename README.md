@@ -1,2 +1,2 @@
-# jayalaxmi
+# pars.co.in
 local ecommerce
